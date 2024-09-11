@@ -1,1 +1,5 @@
 # expressjs
+
+## license
+
+[MIT](./LICENSE)
